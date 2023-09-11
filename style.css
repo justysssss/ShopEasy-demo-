@@ -182,7 +182,7 @@ section{
 
 .header .shopping-cart .box{
     display: flex;
-    align-items: center;
+    align-items: center;shadow
     gap: 1rem;
     position: relative;
     margin: 1rem 0;
